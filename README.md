@@ -1,1 +1,3 @@
-# playlisting-application
+# Playlisting Application
+
+This project was completed as to fulfill the requirements of the final project for [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science). It is a a MERN application for creating, modifying, and synchronizing playlists on several platforms. As such, the backend was created with Express.js (a Node.js framework), the front end with React.js, and the database with MongoDB Atlas. Typescript code was used throughout the front and back end.  
